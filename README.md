@@ -10,10 +10,8 @@ are in MFSGIS_results\
 
 | Folder | File | Decription |
 |-|-|-|
-|(root) |GIS_model_pub.py |ArcGIS Notebook used to create the technical potential results |
+|(root) |GIS_model_pub.ipynb |ArcGIS Pro Jupyter Notebook used to create the technical potential results |
 |MFSGIS_results |See above | |
-
-Note: the .py file should be openened 
 </details>
 
 ## How to cite
