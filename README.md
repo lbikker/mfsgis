@@ -1,4 +1,4 @@
-# MFS/GIS Code Description - A worldwide GIS analysis exploring the potential of modular floating strutures (MFS) for sustainable urban developments offshore
+# MFS/GIS data and code description - A worldwide GIS analysis exploring the potential of modular floating strutures (MFS) for sustainable urban developments offshore
 Version: ArcGIS Pro 3.1.2
 ## The results
 are in 'MFSGIS_results.xlsx'. This excel stores the results of the global analysis, marine region analysis and global region analysis (not used in paper). The city level and -35 m sensitivity analysis data is also presented in this excel.
