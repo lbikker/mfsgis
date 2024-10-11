@@ -1,7 +1,7 @@
-# A worldwide GIS analysis exploring the potential of modular floating strutures (MFS) for sustainable urban developments offshore - data and code description
+# A worldwide GIS model exploring the potential of Modular Floating Structures (MFS) for sustainable urban development offshore - data and code description
 Version: ArcGIS Pro 3.1.2
 ## The results
-are in 'MFSGIS_results.xlsx'. This excel stores the results of the global analysis, marine region analysis and global region analysis (not used in paper). The city level and -35 m sensitivity analysis data is also presented in this excel.
+are in 'MFSGIS_results.xlsx'. This excel stores the results of the global analysis, and global marine region analysis (not used in paper). The city level and -35 m sensitivity analysis data is also presented in this excel.
 ## Descriptions of main files in the repository
 <details>
 <summary>Expand to view</summary>
@@ -13,5 +13,7 @@ are in 'MFSGIS_results.xlsx'. This excel stores the results of the global analys
 </details>
 
 ## How to cite
+
+
 ## Contact
 Lieke Bikker: l.m.p.bikker@umail.leidenuniv.nl
